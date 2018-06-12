@@ -55,3 +55,24 @@ for k,v in dict7.items():
 dict8= {"tom":60,"jack":70}
 for k,v in enumerate(dict8):
     print(k,v)
+
+#输入一个单词,打印这个单词在这个字符串出现的次数
+str1 = input("input:")
+str = "tom is good man!tom is nice man!tom is great man!"
+dict = {}
+for i in str.split("!"):
+    for j in i.split(" "):
+        if dict.get(j) == None:
+            dict[j] = 1
+        else:
+            dict[j] += 1
+print("count = %d" %(dict.get(str1)))
+
+'''
+1丶切割字符串
+2丶循环处理每个列表中的每个元素
+3丶以元素当做key去一个字典中提取数据
+4丶如果没有提取到，就以该元素作为key,1作为value存进字典
+5丶如果提取到,将对应的key的value修改,值加1
+6丶根据输入的字符串当做key再去字典取值
+'''
