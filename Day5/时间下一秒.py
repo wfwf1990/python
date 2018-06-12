@@ -16,5 +16,5 @@ if second == 60:
         mins = 0
         if hours == 24:
             hours = 00
-print("%d:%d:%d" %(hours,mins,second))
+print("%.2d:%.2d:%.2d" %(hours,mins,second))
 
