@@ -50,3 +50,31 @@ try:
     print(4 / 0)
 except (NameError,ZeroDivisionError):
     print("出现了NameError和ZeroDivisionError错误")
+
+
+
+
+#特殊的错误类型
+#错误其实是class（类）,所有的错误都继承自BaseException,所以在捕获的时候，它捕获了该类型的错误,还把子类一网打尽
+try:
+    print( 5 / 0 )
+except BaseException as e:
+    print("异常1")
+except ZeroDivisionError as e:
+    print("异常2")
+
+
+#跨越多层调用
+#main()调用了fun2,fun2调用fun1,fun1出现了错误，这是只要main捕获到了就可以处理
+def fun1(num):
+    print(1 / num)
+def fun2(num):
+    fun1(num)
+def main():
+    fun2(0)
+
+try:
+    main()
+except ZeroDivisionError:
+    print("除数为0了")
+
