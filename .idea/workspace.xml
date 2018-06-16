@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a5c43e-795b-4f5b-a3fb-ff0f39cd113b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/5-文件读写/2丶写文件.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/5-文件读写/3丶编码和解码.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/5-文件读写/4丶list-tuple-dict-set文件操作.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/6-os模块/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/6-os模块/os模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/7-递归/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/7-递归/递归.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day6/6-os模块/os模块.py" afterPath="$PROJECT_DIR$/Day6/6-os模块/os模块.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="9丶匿名函数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day5/4-函数/9丶匿名函数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="1丶读文件.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day6/5-文件读写/1丶读文件.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,18 +56,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="os模块.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="os模块.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day6/6-os模块/os模块.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="603">
+              <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file4" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/5-文件读写/file4">
+      <file leaf-file-name="递归.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day6/7-递归/递归.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="12" column="9" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file3" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day6/5-文件读写/file3">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -159,6 +157,7 @@
         <option value="$PROJECT_DIR$/Day6/5-文件读写/3丶编码和解码.py" />
         <option value="$PROJECT_DIR$/Day6/5-文件读写/4丶list-tuple-dict-set文件操作.py" />
         <option value="$PROJECT_DIR$/Day6/6-os模块/os模块.py" />
+        <option value="$PROJECT_DIR$/Day6/7-递归/递归.py" />
       </list>
     </option>
   </component>
@@ -204,6 +203,12 @@
               <item name="Day6" type="462c0819:PsiDirectoryNode" />
               <item name="6-os模块" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Day6" type="462c0819:PsiDirectoryNode" />
+              <item name="7-递归" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -229,20 +234,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.os模块">
-    <configuration name="1丶读文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.递归">
+    <configuration name="递归" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6/5-文件读写" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6/7-递归" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6/5-文件读写/1丶读文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6/7-递归/递归.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,19 +338,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1丶读文件" />
-      <item index="1" class="java.lang.String" itemvalue="Python.2丶写文件" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3丶编码和解码" />
-      <item index="3" class="java.lang.String" itemvalue="Python.4丶list-tuple-dict-set文件操作" />
-      <item index="4" class="java.lang.String" itemvalue="Python.os模块" />
+      <item index="0" class="java.lang.String" itemvalue="Python.2丶写文件" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3丶编码和解码" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4丶list-tuple-dict-set文件操作" />
+      <item index="3" class="java.lang.String" itemvalue="Python.os模块" />
+      <item index="4" class="java.lang.String" itemvalue="Python.递归" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.os模块" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4丶list-tuple-dict-set文件操作" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3丶编码和解码" />
-        <item index="3" class="java.lang.String" itemvalue="Python.2丶写文件" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1丶读文件" />
+        <item index="0" class="java.lang.String" itemvalue="Python.递归" />
+        <item index="1" class="java.lang.String" itemvalue="Python.os模块" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4丶list-tuple-dict-set文件操作" />
+        <item index="3" class="java.lang.String" itemvalue="Python.3丶编码和解码" />
+        <item index="4" class="java.lang.String" itemvalue="Python.2丶写文件" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +393,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528986058601</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day6">
+      <created>1529157780207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529157780207</updated>
+    </task>
+    <task id="LOCAL-00006" summary="os模块">
+      <created>1529160506233</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1529160506233</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -397,13 +416,13 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3069467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280757" sideWeight="0.12681745" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280757" sideWeight="0.87318254" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280757" sideWeight="0.13812602" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280757" sideWeight="0.861874" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5516963" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -441,7 +460,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day5" />
     <MESSAGE value="day6" />
-    <option name="LAST_COMMIT_MESSAGE" value="day6" />
+    <MESSAGE value="os模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="os模块" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -466,27 +486,11 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/7丶默认参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/9丶匿名函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day4/字符串续集.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -831,14 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day6/5-文件读写/file4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day6/5-文件读写/4丶list-tuple-dict-set文件操作.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -847,10 +843,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/5-文件读写/file3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/5-文件读写/file4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day6/6-os模块/os模块.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="603">
+          <caret line="80" column="0" lean-forward="true" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/7-递归/递归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="14" />
           <folding />
         </state>
       </provider>

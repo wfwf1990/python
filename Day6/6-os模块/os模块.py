@@ -53,3 +53,28 @@ p1 = r"C:\Users\lovebaby\PycharmProjects\python\Day6"
 p2 = "tom"
 print(os.path.join(p1,p2))
 
+#os.path.split 拆分路径
+path2 = r"C:\Users\lovebaby\PycharmProjects\python\Day6\5-文件读写\file2"
+print(os.path.split(path2))
+
+#os.path.splitext 获取文件扩展名
+print(os.path.splitext(path2))
+
+#os.path.isdir 判断文件是否是目录
+print(os.path.isdir(path2))
+
+#os.path.isfile 判断文件是否存在
+print(os.path.isfile(path2))
+
+#os.path.exists 判断目录是否存在
+path4 = r"C:\Users\lovebaby\PycharmProjects\python\Day6\5-文件读写"
+print(os.path.exists(path4))
+
+#os.path.getsize 获取文件大小（字节）
+print(os.path.getsize(path2))
+
+#os.path.dirname 获取文件的目录
+#os.path.basename 获取目录的文件名
+print(os.path.dirname(path2))
+print(os.path.basename(path2))
+
