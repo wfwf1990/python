@@ -8,3 +8,5 @@ per = Person(gun)
 
 
 per.fire()
+per.fire()
+per.fire()
