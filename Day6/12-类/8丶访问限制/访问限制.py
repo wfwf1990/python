@@ -33,3 +33,15 @@ print(per1.getMoney())          #获取私有属性
 '''
 per1._Person__money = 1
 print(per1.getMoney())
+
+
+
+#在python中 __xxx__ 属于特殊变量，可以直接访问
+
+#在python中，_xxx    这样的变量也可以在外部直接访问，但是按照约定的规则，当我们看到这样的变量时,意思是"虽然我可以被访问，但是请把我视为私有变量"
+
+class D123(object):
+    def __init__(self):
+        name = ""
+    def Shoot(self):
+        if self.b
