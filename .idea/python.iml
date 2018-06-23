@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/看书笔记/看书练习/类/模块存储多个类" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/看书笔记/看书练习/类/从给一个模块导入多个类" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/看书笔记/看书练习/类/导入整个模块" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/看书笔记/看书练习/类/一个模块导入另外一个模块" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/看书笔记/练习/类/导入" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/看书笔记/练习/类/导入/multiple_modules" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
