@@ -8,7 +8,7 @@ class Person(object):
     def run(self):
         print("run")
     def eat(self,food):
-        print("eat" + food)
+        print("eat " + food)
     def openDoor(self):
         print("opendoor")
     def fillEle(self):
@@ -27,6 +27,21 @@ per1.age = 18
 per1.height = 175
 per1.weight = 80
 print(per1.name,per1.age)
+
+'''
+访问方法：
+格式：对象名.方法名(参数列表)
+'''
+per1.run()
+per1.eat("apple")
+
+
+
+#问题：目前俩看Person创建的所有对象的属性都是一样的
+per2 = Person()
+per3 = Person()
+print(per2.age)
+print(per3.age)
 
 
 

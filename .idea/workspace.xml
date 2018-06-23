@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4a5c43e-795b-4f5b-a3fb-ff0f39cd113b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/1丶第一个Python类（创建类）/第一个python类.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/2丶使用类实例化对象/使用类实例化对象.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/3丶访问对象的属性与方法/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/3丶访问对象的属性与方法/访问对象的属性与方法.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/5-文件读写/file1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/5-文件读写/file2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/9-目录遍历/1233.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/9-目录遍历/2丶栈模拟递归遍历目录.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/9-目录遍历/3丶队列模拟递归遍历目录.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/9-目录遍历/file3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/9-目录遍历/作业.py" />
+    <list default="true" id="f4a5c43e-795b-4f5b-a3fb-ff0f39cd113b" name="Default" comment="类">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/4丶对象的初始状态（构造函数）/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/4丶对象的初始状态（构造函数）/构造函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/5丶self/self.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/6丶析构函数/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day6/12-类/6丶析构函数/析构函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/看书笔记/看书练习/类/battery.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/看书笔记/练习/类/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/看书笔记/练习/类/electric_car.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/看书笔记/练习/类/icecreamstand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/看书笔记/练习/类/privilges.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day6/12-类/3丶访问对象的属性与方法/访问对象的属性与方法.py" afterPath="$PROJECT_DIR$/Day6/12-类/3丶访问对象的属性与方法/访问对象的属性与方法.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,101 +24,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sina.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/9-目录遍历/sina/sina.txt">
+      <file leaf-file-name="析构函数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day6/12-类/6丶析构函数/析构函数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="86">
+              <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="car.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/看书笔记/看书练习/类/car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1070">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="electriccar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/看书笔记/看书练习/类/electriccar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="44" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="battery.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/看书笔记/看书练习/类/battery.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-180">
+              <caret line="3" column="8" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="40" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="electric_car.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/electric_car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restaurant.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/restaurant.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="20" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icecreamstand.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/icecreamstand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-454">
               <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="第一个python类.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/12-类/1丶第一个Python类（创建类）/第一个python类.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="29" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="使用类实例化对象.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/12-类/2丶使用类实例化对象/使用类实例化对象.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="访问对象的属性与方法.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day6/12-类/3丶访问对象的属性与方法/访问对象的属性与方法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="6丶__name__属性.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/11-模块/6丶__name__属性.py">
+      <file leaf-file-name="user.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/user.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <caret line="1" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/11-模块/__init__.py">
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="780">
+              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8丶安装第三方模块.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/11-模块/8丶安装第三方模块.py">
+      <file leaf-file-name="privilges.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/privilges.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/11-模块/包/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="包.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/11-模块/包/包.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tom.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day6/11-模块/tom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-80">
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -183,6 +182,14 @@
         <option value="$PROJECT_DIR$/Day6/12-类/1丶第一个Python类（创建类）/第一个python类.py" />
         <option value="$PROJECT_DIR$/Day6/12-类/2丶使用类实例化对象/使用类实例化对象.py" />
         <option value="$PROJECT_DIR$/Day6/12-类/3丶访问对象的属性与方法/访问对象的属性与方法.py" />
+        <option value="$PROJECT_DIR$/Day6/12-类/4丶对象的初始状态（构造函数）/构造函数.py" />
+        <option value="$PROJECT_DIR$/Day6/12-类/5丶self/self.py" />
+        <option value="$PROJECT_DIR$/Day6/12-类/6丶析构函数/析构函数.py" />
+        <option value="$PROJECT_DIR$/看书笔记/练习/类/icecreamstand.py" />
+        <option value="$PROJECT_DIR$/看书笔记/练习/类/admin.py" />
+        <option value="$PROJECT_DIR$/看书笔记/练习/类/privilges.py" />
+        <option value="$PROJECT_DIR$/看书笔记/看书练习/类/battery.py" />
+        <option value="$PROJECT_DIR$/看书笔记/练习/类/electric_car.py" />
       </list>
     </option>
   </component>
@@ -211,7 +218,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,47 +233,19 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="Day6" type="462c0819:PsiDirectoryNode" />
-              <item name="11-模块" type="462c0819:PsiDirectoryNode" />
+              <item name="看书笔记" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="Day6" type="462c0819:PsiDirectoryNode" />
-              <item name="11-模块" type="462c0819:PsiDirectoryNode" />
-              <item name="包" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="Day6" type="462c0819:PsiDirectoryNode" />
-              <item name="12-类" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="Day6" type="462c0819:PsiDirectoryNode" />
-              <item name="12-类" type="462c0819:PsiDirectoryNode" />
-              <item name="1丶第一个Python类（创建类）" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="Day6" type="462c0819:PsiDirectoryNode" />
-              <item name="12-类" type="462c0819:PsiDirectoryNode" />
-              <item name="2丶使用类实例化对象" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="Day6" type="462c0819:PsiDirectoryNode" />
-              <item name="12-类" type="462c0819:PsiDirectoryNode" />
-              <item name="3丶访问对象的属性与方法" type="462c0819:PsiDirectoryNode" />
+              <item name="看书笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="看书练习" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -297,28 +275,37 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/10-时间相关模块/1丶time.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/10-时间相关模块/2丶datetime.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/10-时间相关模块/3丶calendar.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/10-时间相关模块/__init__.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/10-时间相关模块/性能测试.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/10-时间相关模块/时间模块图.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/1丶模块概述.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/2丶使用标准库中的模块.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/3丶使用自定义的模块(import语句).py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/4丶使用自定义模块（from....import语句）.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/5丶使用自定义模块（from...import）.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/6丶__name__属性.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/8丶安装第三方模块.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/__init__.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/tom.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/包/__init__.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/包/a/__init__.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/包/a/tom.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/包/b/__init__.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/包/b/tom.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/11-模块/包/包.py</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/作业/目录遍历以及处理文件.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/10丶多态/animal.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/10丶多态/cat.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/10丶多态/mouse.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/10丶多态/person.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/10丶多态/多态.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/7丶重写函数/重写函数.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/8丶访问限制/访问限制.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/9丶继承/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/9丶继承/单继承的实现/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/9丶继承/单继承的实现/person.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/9丶继承/单继承的实现/student.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/9丶继承/单继承的实现/worker.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/9丶继承/单继承的实现/单继承的实现.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/test/bulletbox.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/test/gun.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/test/person.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/test/start.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/人开枪射击子弹/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/人开枪射击子弹/bulletbox.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/人开枪射击子弹/gun.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/人开枪射击子弹/person.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-类/人开枪射击子弹/人开枪射击子弹.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-面向对象/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Day6/12-面向对象/类.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/看书笔记/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/看书笔记/看书练习/类/car.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/看书笔记/看书练习/类/electriccar.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/看书笔记/练习/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/看书笔记/练习/类/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/看书笔记/练习/类/restaurant.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/看书笔记/练习/类/user.py</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -419,24 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.访问对象的属性与方法">
-    <configuration name="歌词解析" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/歌词解析.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.electric_car">
     <configuration name="栈" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -488,23 +458,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="1233" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6/9-目录遍历" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6/9-目录遍历/1233.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="使用类实例化对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -539,37 +492,122 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="dict(字典)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="析构函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6/12-类/6丶析构函数" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day4/dict(字典).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6/12-类/6丶析构函数/析构函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/看书笔记/练习/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/看书笔记/练习/类/admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="battery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/看书笔记/看书练习/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/看书笔记/看书练习/类/battery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="electric_car" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/看书笔记/练习/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/看书笔记/练习/类/electric_car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="icecreamstand" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/看书笔记/练习/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/看书笔记/练习/类/icecreamstand.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="privilges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/看书笔记/练习/类" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/看书笔记/练习/类/privilges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.歌词解析" />
-      <item index="1" class="java.lang.String" itemvalue="Python.dict(字典)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1233" />
-      <item index="3" class="java.lang.String" itemvalue="Python.使用类实例化对象" />
-      <item index="4" class="java.lang.String" itemvalue="Python.访问对象的属性与方法" />
+      <item index="0" class="java.lang.String" itemvalue="Python.icecreamstand" />
+      <item index="1" class="java.lang.String" itemvalue="Python.admin" />
+      <item index="2" class="java.lang.String" itemvalue="Python.privilges" />
+      <item index="3" class="java.lang.String" itemvalue="Python.battery" />
+      <item index="4" class="java.lang.String" itemvalue="Python.electric_car" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.访问对象的属性与方法" />
-        <item index="1" class="java.lang.String" itemvalue="Python.使用类实例化对象" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1233" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dict(字典)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.歌词解析" />
+        <item index="0" class="java.lang.String" itemvalue="Python.electric_car" />
+        <item index="1" class="java.lang.String" itemvalue="Python.battery" />
+        <item index="2" class="java.lang.String" itemvalue="Python.privilges" />
+        <item index="3" class="java.lang.String" itemvalue="Python.admin" />
+        <item index="4" class="java.lang.String" itemvalue="Python.icecreamstand" />
       </list>
     </recent_temporary>
   </component>
@@ -654,22 +692,28 @@
       <option name="project" value="LOCAL" />
       <updated>1529262982256</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="类">
+      <created>1529507975905</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1529507975906</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1362" y="-4" width="1288" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15831988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33911672" sideWeight="0.16801292" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33911672" sideWeight="0.8319871" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21451104" sideWeight="0.17770597" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21451104" sideWeight="0.822294" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5420032" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5387722" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -708,7 +752,8 @@
     <MESSAGE value="day5" />
     <MESSAGE value="day6" />
     <MESSAGE value="os模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="os模块" />
+    <MESSAGE value="类" />
+    <option name="LAST_COMMIT_MESSAGE" value="类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -738,90 +783,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day5/3-迭代器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1017">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day6/1-装饰器/3丶带有多个参数的装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day6/2-偏函数/偏函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/1丶函数概述.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1/查看关键字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day4/字符串续集.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/2丶最简单的函数（无参无返回值）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/4丶函数返回值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/5丶传递参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/3丶函数的参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/7丶默认参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day5/4-函数/6丶关键字参数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day5/4-函数/8丶不定长参数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -960,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -968,9 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="24" column="15" lean-forward="false" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-          <folding>
-            <element signature="e#19#37#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -978,7 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -986,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -994,7 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1010,7 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1018,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,7 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,7 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,7 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="29" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,7 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,8 +1035,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day6/11-模块/包/包.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="240">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1104,8 +1051,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day6/12-类/3丶访问对象的属性与方法/访问对象的属性与方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/12-类/4丶对象的初始状态（构造函数）/构造函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/12-类/5丶self/self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/12-类/6丶析构函数/析构函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/restaurant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/privilges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/icecreamstand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-454">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/看书练习/类/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1070">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/看书练习/类/electriccar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="44" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/看书练习/类/battery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="40" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/electric_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/看书笔记/练习/类/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding />
         </state>
       </provider>
