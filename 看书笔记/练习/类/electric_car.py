@@ -23,13 +23,14 @@ class Car():
 class ElectricCar(Car):
     def __init__(self,make,modle,year):
         super(ElectricCar, self).__init__(make,modle,year)
-        num = 70
-        self.battery = Battery(num)
+        self.battery = Battery()
 class Battery():
     def __init__(self,battery_size=70):
         self.battery_size = battery_size
     def describeBattery(self):
         print("This car has a " + str(self.battery_size) + "-kwh battery.")
+    def setbattery(self,size):
+        self.battery_size = size
     def getRange(self):
         if self.battery_size == 70:
             range = 240
@@ -41,8 +42,7 @@ class Battery():
     def upgradeBattery(self):
         if self.battery_size != 85:
             self.battery_size = 85
+
 my_bwm = ElectricCar("bwm","x6",2016)
-print(my_bwm.getDescriptiveName())
-my_bwm.battery.getRange()
-my_bwm.battery.upgradeBattery()
-my_bwm.battery.getRange()
+my_bwm.battery.battery_size = 81
+my_bwm.battery.describeBattery()

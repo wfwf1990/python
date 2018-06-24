@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/看书笔记/看书练习/类/一个模块导入另外一个模块" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/看书笔记/练习/类/导入" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/看书笔记/练习/类/导入/multiple_modules" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day7/银行系统" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
