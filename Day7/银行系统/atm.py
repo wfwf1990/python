@@ -43,7 +43,7 @@ class ATM():
         temp_password = input("请输入你的密码：")
         password = self.verify_user_password(temp_num,temp_password)
         print(type(password))
-        if  password:
+        if  not password:
             print("输入的密码不正确")
             return -1
 
@@ -94,6 +94,6 @@ class ATM():
                 if temp_password == user_password and card_ids == temp_cardId:
                     print("密码验证成功")
                     return 1
-            return -1
+            return False
 
 
